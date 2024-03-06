@@ -34,7 +34,9 @@ function jorgina(id,name){
         <div id="xoxo" class="col-md-4  d-flex justify-content-end">
             <div class="side m-3 d-flex flex-column justify-content-between">
                 <div class="top text-center">
-                <img src="../images/httpswa.memessageUZI4ATNRKKHWF1.PNG" class="" alt="">
+                   <div id="IMAGESX">
+                <img src="../images/httpswa.memessageUZI4ATNRKKHWF1.PNG" class="w-100" alt="">
+                </div>
                  
                 </div>
                 <div class="bottom">
