@@ -11,9 +11,9 @@ function jorgina(id,name){
             <img src="./images/images.jfif" class="w-100 h-100" alt="">
         </div>
         <div class="col-md-4 text-end">
-            <h4 class="special fw-bolder"> ${name}  </h4>
+            <h4 class="special my-4 fw-bolder"> ${name}  </h4>
             <h5>العروض حتي شهر يناير</h5>
-            <div class="order justify-content-end justify-content-between d-flex">
+            <div class="order my-1 justify-content-end justify-content-between d-flex">
                 <p class="special fw-bold ">5,649 ريال</p>
                 <p class="second">7,649 ريال</p>
                 <p class="second">8ايام 7ليالي</p>
