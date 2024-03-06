@@ -86,6 +86,10 @@ i {
     overflow: hidden;
     border-radius: 12px;
 }
+#IMAGESX{
+    width: 60px;
+    cursor: pointer;
+}
 
 #op {
     background-color: #29C250;
